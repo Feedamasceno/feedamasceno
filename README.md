@@ -10,6 +10,6 @@
 
 <h3> Code: </h3>
 
-<img src="https://skillicons.dev/icons?i=js,html,css,py,gcp,vscode,github&perline=3" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,gcp,vscode,github&perline=3)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
