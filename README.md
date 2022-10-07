@@ -8,10 +8,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/felipe-damasceno-/)
 
 
-<h3 align="center"> Code: </h3>
+<h3> Code: </h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,gcp,vscode,github&perline=3" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=js,html,css,py,gcp,vscode,github&perline=3" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
