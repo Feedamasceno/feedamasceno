@@ -5,22 +5,13 @@
 ### Hi there 👋 I'm Felipe Damasceno
 >  Information Systems student at [Mackenzie](https://www.mackenzie.br/)
 
-<img align="center" a href="https://www.linkedin.com/in/felipe-damasceno-/" align="center"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="Felipe" align="center"></a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/felipe-damasceno-/)
 
 
-```javascript
-const Felipe = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML/CSS, Python, Java],
-  age: 20,
-  hometown: "São Paulo, Brazil"
-  languages = {'portuguese': 'native',
-               'english':  'intermediary knowledge',
-               'spanish':  'basic knowledge',
- }
-```
+<h3 align="center"> Code: </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,gcp,vscode,github&perline=3" />
+  </a>
+</p>
