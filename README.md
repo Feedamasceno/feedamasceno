@@ -13,7 +13,7 @@ const Felipe = {
   pronouns: "he" | "him",
   code: [Javascript, HTML/CSS, Python, Java],
   age: 20,
-  hometown: São Paulo, Brazil,
+  hometown: "São Paulo, Brazil"
   languages = {'portuguese': 'native',
                'english':  'intermediary knowledge',
                'spanish':  'basic knowledge',
