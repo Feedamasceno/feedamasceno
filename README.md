@@ -5,7 +5,7 @@
 ### Hi there 👋 I'm Felipe Damasceno
 >  Information Systems student at [Mackenzie](https://www.mackenzie.br/)
 
-<a href="https://www.linkedin.com/in/felipe-damasceno-/" align="center"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="Felipe" align="center"></a>
+<img align="center" a href="https://www.linkedin.com/in/felipe-damasceno-/" align="center"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="Felipe" align="center"></a>
 
 
 ```javascript
@@ -20,3 +20,9 @@ const Felipe = {
  }
 ```
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feedamasceno&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=feedamasceno&repo=convoychat" />
+</a>
