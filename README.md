@@ -3,7 +3,8 @@
 </p>
 
 ### Hi there 👋 I'm Felipe Damasceno
->  Information Systems student at [Mackenzie](https://www.mackenzie.br/)
+> Information Systems student at [Mackenzie](https://www.mackenzie.br/)
+
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/felipe-damasceno-/)
 
