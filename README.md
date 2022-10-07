@@ -20,11 +20,7 @@ const Felipe = {
  }
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Feedamasceno&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Feedamasceno&repo=convoychat" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
