@@ -23,7 +23,7 @@ const Felipe = {
 
 <h3> Code: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,gcp,vscode,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,react,gcp,vscode,github&perline=3)](https://skillicons.dev)
 
 <h3> GitHub Stats: </h3>
 
