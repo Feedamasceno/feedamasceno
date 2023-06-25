@@ -1,31 +1,25 @@
-<p align="center">
- <h2 align="center">Profile</h2>
-</p>
+## Hi there 👋 I'm Felipe Damasceno. 
 
-### Hi there 👋 I'm Felipe Damasceno
-> Information Systems student at [Mackenzie](https://www.mackenzie.br/)
+### My linkedin:
 
-```javascript
-const Felipe = {
-  pronouns: "he" | "him",
-  age: 20,
-  hometown: "São Paulo, Brazil"
-  languages = {'portuguese': 'native',
-               'english':  'intermediary knowledge',
-               'spanish':  'basic knowledge',
- }
-```
+<a href="https://www.linkedin.com/in/felipe-damasceno-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-<h3> My Linkedin: </h3> 
+## Ferramentas e tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/felipe-damasceno-/)
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" > <img align="center" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&
+logoColor=white
+" >
+
+## Stats:
+
+![Feedamasceno's GitHub stats](https://github-readme-stats.vercel.app/api?username=feedamasceno&show_icons=true&theme=marko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feedamasceno&layout=compact)
 
 
-<h3> Code: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,react,gcp,vscode,github&perline=3)](https://skillicons.dev)
 
-<h3> GitHub Stats: </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feedamasceno&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
