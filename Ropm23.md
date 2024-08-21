@@ -3,8 +3,8 @@
 ## Experiência Profissional
 
 **Assistente Administrativo**  
-_Fintech_  
-_Janeiro de 2019 – Dezembro de 2023_
+_Fintech Plano FP_  
+_Maio de 2019 – Novembro de 2023_
 
 - Responsável por gerenciar tarefas administrativas diárias, incluindo atendimento ao cliente, controle de documentos e apoio às equipes de vendas e financeiro.
 - Implementação de processos para melhorar a eficiência operacional.
@@ -12,11 +12,12 @@ _Janeiro de 2019 – Dezembro de 2023_
 
 **Estagiário de TI**  
 _Empresa de Comércio Exterior_  
-_Janeiro de 2023 – Atual_
+_Novembro de 2023 – Atual_
 
-- Suporte na manutenção e administração de sistemas e redes.
-- Auxílio na configuração e solução de problemas técnicos de hardware e software.
-- Participação em projetos de melhoria da infraestrutura de TI e segurança de dados.
+- Suporte na manutenção e administração de sistemas.
+- Auxílio na configuração e solução de problemas técnicos de software.
+- Participação em projetos de melhoria da infraestrutura de TI.
+- Verificação da volumetria de dados via SQL.
 
 ## Formação Acadêmica
 
@@ -34,6 +35,5 @@ _FIAP_
 
 ## Contato
 
-- **Email:** felipe.damasceno@example.com
-- **Telefone:** (11) 98765-4321
+- **Email:** felipe.damasceno.b@gmail.com
 - **LinkedIn:** [linkedin.com/in/felipe-damasceno](https://linkedin.com/in/felipe-damasceno)
