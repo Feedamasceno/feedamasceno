@@ -59,4 +59,4 @@ _FIAP_
 ## Contato
 
 - **Email:** felipe.damasceno.b@gmail.com
-- **LinkedIn:** [linkedin.com/in/felipe-damasceno](https://linkedin.com/in/felipe-damasceno)
+- **LinkedIn:** [https://www.linkedin.com/in/felipe-damasceno-/)
