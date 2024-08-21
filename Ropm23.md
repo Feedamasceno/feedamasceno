@@ -22,8 +22,8 @@ _Novembro de 2023 – Atual_
 ## Formação Acadêmica
 
 **Sistemas de Informação**
-_Universidade Presbiteriana Mackenzie_
 
+_Universidade Presbiteriana Mackenzie_
 _2022 - 2026_
 
 **CyberSecurity**  
