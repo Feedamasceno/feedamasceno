@@ -22,6 +22,7 @@ _Novembro de 2023 – Atual_
 ## Formação Acadêmica
 
 **Ensino médio**
+
 **Oswaldo Catalano**
 
 _2019 - 2021_
