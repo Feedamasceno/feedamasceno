@@ -21,6 +21,9 @@ _Novembro de 2023 – Atual_
 
 ## Formação Acadêmica
 
+**Oswaldo Catalano**
+_2019 - 2021_
+
 **Sistemas de Informação**
 
 _Universidade Presbiteriana Mackenzie_
