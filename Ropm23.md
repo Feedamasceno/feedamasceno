@@ -23,6 +23,7 @@ _Novembro de 2023 – Atual_
 
 **Sistemas de Informação**
 _Universidade Presbiteriana Mackenzie_
+
 _2022 - 2026_
 
 **CyberSecurity**  
