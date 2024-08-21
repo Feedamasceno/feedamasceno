@@ -3,6 +3,7 @@
 ## Experiência Profissional
 
 **Jovem Aprendiz**
+
 _Nikkey Cosméticos_
 _Janeiro de 2019 - Maio de 2019_
 
