@@ -2,6 +2,17 @@
 
 ## Experiência Profissional
 
+**Jovem Aprendiz**
+_Nikkey Cosméticos_
+_Janeiro de 2019 - Maio de 2019_
+
+- Auxiliei no recebimento e conferência de produtos que chegam ao estoque_
+- Verifiquei se as mercadorias recebidas estão de acordo com as notas fiscais e ordens de compra.
+- Organizei os produtos de forma adequada e sistemática nos locais de armazenamento.
+- Mantive o estoque organizado, garantindo fácil acesso e visibilidade dos produtos.
+- Auxiliei na separação e embalagem de produtos para envio.
+- Preparei pedidos conforme solicitações de clientes ou departamentos internos.
+
 **Assistente Administrativo**  
 _Fintech Plano FP_  
 _Maio de 2019 – Novembro de 2023_
